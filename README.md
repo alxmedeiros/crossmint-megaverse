@@ -1,4 +1,4 @@
-# crossmint-megaverse
+# Crossmint megaverse challenge
 
 # Setup
 
